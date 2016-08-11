@@ -80,23 +80,23 @@ Run the c program.
 $>./AIS328DQTR
 ```
  
- ##  Onion Omega
- 
- Get Started and setting up the Onion Omega according to steps provided at :
- 
- https://wiki.onion.io/Get-Started
- 
- To install the Python module, run the following commands:
- ```cpp
- opkg update
- ```
- ```cpp
- opkg install python-light pyOnionI2C
- ```
- 
- Download (or git pull) the code in Onion Omega. Run the program.
- 
- ```cpp
- $> python AIS328DQTR.py
- ```
+## Onion Omega
+
+Get Started and setting up the Onion Omega according to steps provided at :
+
+https://wiki.onion.io/Get-Started
+
+To install the Python module, run the following commands:
+```cpp
+opkg update
+```
+```cpp
+opkg install python-light pyOnionI2C
+```
+
+Download (or git pull) the code in Onion Omega. Run the program.
+
+```cpp
+$> python AIS328DQTR.py
+```
 #####The code output is raw value of acceleration in X, Y and Z Axis.
