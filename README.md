@@ -80,7 +80,7 @@ Run the c program.
 $>./AIS328DQTR
 ```
  
- ## Onion Omega
+ ##  Onion Omega
  
  Get Started and setting up the Onion Omega according to steps provided at :
  
